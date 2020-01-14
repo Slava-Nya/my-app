@@ -1,0 +1,53 @@
+.navbar {
+background-color: rgba(255, 255, 255, 0.7);
+}
+
+.clock-wrap {
+    text-align:center;
+    padding:1em 0;
+}
+
+.clock-wrap p {
+    text-decoration:none;
+    color: white;
+}
+
+.clock-wrap span {
+    color:white;
+}
+
+.nav-item {
+    font-size: 15px;
+}
+
+#time-block {
+    background: url(../../resources/weather_background.jpg) no-repeat no-repeat center;
+    background-size: cover;
+}
+
+.time-block-wrap{
+    padding: 5% 0;
+}
+
+.user_name {
+    font-size: 19px;
+    color: rgb(53, 65, 59);
+}
+
+.header-text
+{
+    color: #666
+}
+
+.news-wrapper {
+    margin-top: 2%;
+}
+
+#news {
+    box-shadow: 18px  rgba(20, 85, 20, 0.884), 0, 0, 0;
+    padding-top: 2%;
+}
+
+.exit_btn {
+    font-size: 15px;
+}
